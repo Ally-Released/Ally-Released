@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamnotlol2" target="blank"><img src="https://img.shields.io/twitter/follow/iamnotlol2?logo=twitter&style=for-the-badge" alt="iamnotlol2" /></a> </p>
 
-- 🔭 I’m currently working on **Multi-Tool**
+- 🔭 I’m currently working on **Project ZERO**
 
 - 🌱 I’m currently learning **how to actually live my life**
 
