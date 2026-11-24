@@ -23,15 +23,15 @@ My work lives where **defensive security, local-first tools, and product enginee
   <tr>
     <td width="50%" valign="top">
       <strong>01 / SCRIPT SENTINEL</strong><br>
-      <sub>PUBLIC RELEASE PREPARATION · MONAR HQ</sub>
+      <sub>PUBLIC REPOSITORY · MONAR HQ</sub>
       <p>Local-first defense for the JavaScript your pages load. Inventory scripts, review integrity and CSP, and prepare verifiable changes for operator approval.</p>
-      <a href="https://github.com/Monar-HQ">VIEW MONAR HQ →</a>
+      <a href="https://github.com/Monar-HQ/script-sentinel">VIEW SCRIPT SENTINEL →</a>
     </td>
     <td width="50%" valign="top">
       <strong>02 / EVERMIND</strong><br>
       <sub>IN DEVELOPMENT · MONAR HQ</sub>
       <p>Persistent, local memory for coding agents. Project decisions, constraints, and corrections carry across sessions instead of starting over.</p>
-      <a href="https://github.com/Monar-HQ">VIEW MONAR HQ →</a>
+      <a href="https://github.com/Monar-HQ/script-sentinel">VIEW SCRIPT SENTINEL →</a>
     </td>
   </tr>
 </table>
