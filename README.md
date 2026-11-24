@@ -36,10 +36,6 @@ My work lives where **defensive security, local-first tools, and product enginee
   </tr>
 </table>
 
-### Beyond the security tools
-
-**Clasher Network** — a full-stack community site built with Next.js, Tailwind, and Motion. One place for the server’s world, rules, features, and community links. [Explore the build →](https://github.com/Ally-Released/minecraft-server)
-
 ## How I work
 
 | PRODUCT | SYSTEMS | TRUST |
