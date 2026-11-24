@@ -36,6 +36,14 @@ My work lives where **defensive security, local-first tools, and product enginee
   </tr>
 </table>
 
+**03 / KAGE** &nbsp; `PRIVATE BUILD`<br>
+A phone-first product experience in development. More when it’s ready.
+
+## MONAR, in public
+
+The [Monar Services site](https://www.monarservices.org) puts the studio’s work in one place: three visual case studies, the 71-second **THIN AIR** launch film, and a brief flow designed to start with one sentence.
+It’s the public face of the same product-minded work behind Script Sentinel.
+
 ## How I work
 
 | PRODUCT | SYSTEMS | TRUST |
